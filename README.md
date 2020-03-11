@@ -1,2 +1,2 @@
-# web-app-bff-service
+# web-bff
 Web Application BFF Service
